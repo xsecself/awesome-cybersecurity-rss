@@ -38,6 +38,8 @@ $ sudo docker compose up -d
 |   Mac    | [Fluent Reader](https://github.com/yang991178/fluent-reader) |
 | Windows  | [Fluent Reader](https://github.com/yang991178/fluent-reader) |
 
+客户端各平台安装文档：[【传送门】](/doc)
+
 ## 🤝贡献
 
 我们正在打造：
@@ -58,3 +60,4 @@ $ sudo docker compose up -d
 ## 📌重要声明
 
 本平台所有内容仅供‌**合法授权测试使用**‌，订阅即代表同意《网络安全法》及《数据安全法》相关规定。
+
