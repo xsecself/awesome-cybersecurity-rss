@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+    <head>
+        <title>助安社区</title>
+        <dateCreated>Tue, 22 Apr 2025 10:41:21 UTC</dateCreated>
+    </head>
+    <body>
+        <outline text="安全新闻">
+            <outline title="360 Netlab Blog - Network Security Research Lab at 360" text="360 Netlab Blog - Network Security Research Lab at 360" xmlUrl="https://blog.netlab.360.com/rss/" htmlUrl="https://blog.netlab.360.com/" type="rss"></outline>
+            <outline title="Dark Reading" text="Dark Reading" xmlUrl="https://www.darkreading.com/rss.xml" htmlUrl="https://www.darkreading.com" type="rss"></outline>
+            <outline title="FreeBuff" text="FreeBuff" xmlUrl="https://www.freebuf.com/feed" htmlUrl="https://www.freebuf.com/" type="rss"></outline>
+            <outline title="GBHackers | Hacker News" text="GBHackers | Hacker News" xmlUrl="https://gbhackers.com/feed/" htmlUrl="http://gbhackers.com/" type="rss"></outline>
+            <outline title="Hacker News &amp; Cyber Security" text="Hacker News &amp; Cyber Security" xmlUrl="https://www.darknet.org.uk/feed/" htmlUrl="https://www.darknet.org.uk" type="rss"></outline>
+            <outline title="Help Net Security" text="Help Net Security" xmlUrl="https://www.helpnetsecurity.com/feed/" htmlUrl="https://www.helpnetsecurity.com/" type="rss"></outline>
+            <outline title="Internet Security Blog – Hackology" text="Internet Security Blog – Hackology" xmlUrl="https://blog.drhack.net/feed/" htmlUrl="https://blog.drhack.net" type="rss"></outline>
+            <outline title="KnowBe4 Security Awareness Training Blog" text="KnowBe4 Security Awareness Training Blog" xmlUrl="https://blog.knowbe4.com/rss.xml" htmlUrl="https://blog.knowbe4.com" type="rss"></outline>
+            <outline title="SecWiki News" text="SecWiki News" xmlUrl="https://www.sec-wiki.com/news/rss" htmlUrl="http://www.sec-wiki.com/" type="rss"></outline>
+            <outline title="unSafe.sh - 不安全" text="unSafe.sh - 不安全" xmlUrl="https://unsafe.sh/rss.xml" htmlUrl="https://unsafe.sh" type="rss"></outline>
+            <outline title="嘶吼 RoarTalk" text="嘶吼 RoarTalk" xmlUrl="https://www.4hou.com/feed" htmlUrl="https://www.4hou.com" type="rss"></outline>
+            <outline title="安全客" text="安全客" xmlUrl="https://api.anquanke.com/data/v1/rss" htmlUrl="https://www.anquanke.com" type="rss"></outline>
+            <outline title="微软安全博客" text="微软安全博客" xmlUrl="https://www.microsoft.com/en-us/security/blog/feed/" htmlUrl="https://www.microsoft.com/en-us/security/blog/" type="rss"></outline>
+            <outline title="最新黑客新闻|网络安全新闻、黑客工具和渗透测试课程" text="最新黑客新闻|网络安全新闻、黑客工具和渗透测试课程" xmlUrl="https://latesthackingnews.com/feed/" htmlUrl="https://latesthackingnews.com/" type="rss"></outline>
+        </outline>
+        <outline text="实用">
+            <outline title="Exploit | CXSecurity.com" text="Exploit | CXSecurity.com" xmlUrl="https://cxsecurity.com/wlb/rss/exploit/" htmlUrl="https://cxsecurity.com/wlb/" type="rss"></outline>
+            <outline title="HTML5 Security Cheatsheet" text="HTML5 Security Cheatsheet" xmlUrl="https://html5sec.org/rss" htmlUrl="https://html5sec.org/" type="rss"></outline>
+            <outline title="渗透工具 | kitploit" text="渗透工具 | kitploit" xmlUrl="https://www.kitploit.com/feeds/posts/default?alt=rss" htmlUrl="http://www.kitploit.com/" type="rss"></outline>
+            <outline title="漏洞利用数据库 | exploit-db" text="漏洞利用数据库 | exploit-db" xmlUrl="https://www.exploit-db.com/rss.xml" htmlUrl="https://www.exploit-db.com/" type="rss"></outline>
+            <outline title="谷歌黑客搜索语法 | CXSecurity.com" text="谷歌黑客搜索语法 | CXSecurity.com" xmlUrl="https://cxsecurity.com/wlb/rss/dorks/" htmlUrl="https://cxsecurity.com/wlb/" type="rss"></outline>
+            <outline title="谷歌黑客搜索语法 | exploit-db" text="谷歌黑客搜索语法 | exploit-db" xmlUrl="https://www.exploit-db.com/rss___ghdb.xml" htmlUrl="https://www.exploit-db.com/google-hacking-database/" type="rss"></outline>
+        </outline>
+        <outline text="干货技术">
+            <outline title="Comments for Penetration Testing Lab" text="Comments for Penetration Testing Lab" xmlUrl="https://pentestlab.blog/comments/feed/" htmlUrl="https://pentestlab.blog" type="rss"></outline>
+            <outline title=" Security Content &amp; Discussion | reddit" text=" Security Content &amp; Discussion | reddit" xmlUrl="https://www.reddit.com/r/netsec/.rss" htmlUrl="https://www.reddit.com/r/netsec/" type="rss"></outline>
+            <outline title="Seebug Paper" text="Seebug Paper" xmlUrl="https://paper.seebug.org/rss" htmlUrl="https://paper.seebug.org/" type="rss"></outline>
+            <outline title="Seebug Paper" text="Seebug Paper" xmlUrl="https://www.secpulse.com/feed" htmlUrl="https://www.secpulse.com/" type="rss"></outline>
+            <outline title="先知安全技术社区" text="先知安全技术社区" xmlUrl="https://xz.aliyun.com/feed" htmlUrl="https://xz.aliyun.com/" type="rss"></outline>
+            <outline title="离别歌" text="离别歌" xmlUrl="https://www.leavesongs.com/feed/" htmlUrl="https://www.leavesongs.com" type="rss"></outline>
+            <outline title="腾讯安全玄武实验室" text="腾讯安全玄武实验室" xmlUrl="https://xlab.tencent.com/cn/atom.xml" htmlUrl="https://xlab.tencent.com/cn/" type="rss"></outline>
+            <outline title="跳跳糖 - 安全与分享社区" text="跳跳糖 - 安全与分享社区" xmlUrl="https://tttang.com/rss.xml" htmlUrl="https://tttang.com" type="rss"></outline>
+        </outline>
+        <outline text="漏洞披露">
+            <outline title="CVEMAP | CXSecurity.com" text="CVEMAP | CXSecurity.com" xmlUrl="https://cxsecurity.com/wlb/rss/vulnerabilities/" htmlUrl="https://cxsecurity.com/wlb/" type="rss"></outline>
+            <outline title="Full Disclosure" text="Full Disclosure" xmlUrl="https://seclists.org/rss/fulldisclosure.rss" htmlUrl="https://seclists.org/#fulldisclosure" type="rss"></outline>
+            <outline title="Latest security vulnerabilities" text="Latest security vulnerabilities" xmlUrl="https://www.zerodayinitiative.com/blog/?format=rss" htmlUrl="http://www.zerodayinitiative.com" type="rss"></outline>
+            <outline title="华为安全通告" text="华为安全通告" xmlUrl="https://www.huawei.com/cn/rss-feeds/psirt/rss" htmlUrl="https://www.huawei.com/cn/rss-feeds/psirt/rss" type="rss"></outline>
+        </outline>
+        <outline text="靶场">
+            <outline title="HTB Blog" text="HTB Blog" xmlUrl="https://www.hackthebox.com/rss/blog/all" htmlUrl="https://www.hackthebox.com/rss/blog/all" type="rss"></outline>
+        </outline>
+    </body>
+</opml>
