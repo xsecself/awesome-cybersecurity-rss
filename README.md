@@ -1,9 +1,9 @@
 <div style="text-align: center;">
 <a href="https://secself.com" title="助安社区"><img src="https://img.shields.io/badge/助安社区-官网-blue"/></a>
 <a href="#微信交流" title="微信"><img src="https://img.shields.io/badge/交流-微信-blue"/></a>
-<a href="https://github.com/xsecself/awesome-cybersecurity-rss-hub" title="stars"><img src="https://img.shields.io/github/stars/xsecself/awesome-cybersecurity-rss-hub"/></a>
-<a href="https://github.com/xsecself/awesome-cybersecurity-rss-hub" title="license"><img src="https://img.shields.io/github/license/xsecself/awesome-cybersecurity-rss-hub"/></a>
-<a href="https://github.com/xsecself/awesome-cybersecurity-rss-hub" title="forks"><img src="https://img.shields.io/github/forks/xsecself/awesome-cybersecurity-rss-hub"/></a>
+<a href="https://github.com/xsecself/awesome-cybersecurity-rss" title="stars"><img src="https://img.shields.io/github/stars/xsecself/awesome-cybersecurity-rss"/></a>
+<a href="https://github.com/xsecself/awesome-cybersecurity-rss" title="license"><img src="https://img.shields.io/github/license/xsecself/awesome-cybersecurity-rss"/></a>
+<a href="https://github.com/xsecself/awesome-cybersecurity-rss" title="forks"><img src="https://img.shields.io/github/forks/xsecself/awesome-cybersecurity-rss"/></a>
 <a href="https://github.com/xsecself" title="followers"><img src="https://img.shields.io/github/followers/xsecself"/></a>
 </div>
 
@@ -55,10 +55,9 @@ $ sudo docker compose up -d
 
 ## Star History
 
-[![Star History Chart](https://api.star-history.com/svg?repos=xsecself/awesome-cybersecurity-rss-hub&type=Date)](https://www.star-history.com/#xsecself/awesome-cybersecurity-rss-hub&Date)
+[![Star History Chart](https://api.star-history.com/svg?repos=xsecself/awesome-cybersecurity-rss&type=Date)](https://www.star-history.com/#xsecself/awesome-cybersecurity-rss&Date)
 
 ## 📌重要声明
 
 本平台所有内容仅供‌**合法授权测试使用**‌，订阅即代表同意《网络安全法》及《数据安全法》相关规定。
-
 
